@@ -3,7 +3,6 @@ module github.com/appleboy/gin-jwt/v2
 go 1.12
 
 require (
-	github.com/appleboy/gofight v2.0.0+incompatible // indirect
 	github.com/appleboy/gofight/v2 v2.1.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-gonic/gin v1.4.0
